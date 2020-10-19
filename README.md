@@ -2,8 +2,8 @@
 
 I am a Junior Web Developer actually working and learning @ Becode in Charleroi, Belgium.
 
-As a photographer I am naturally turned towards web design and front-end development.
-Also I keep working on personal art works in which I search and develop altered realities.
+I am mainly confortable in web design and front-end development.
+As a photographer I also work on personal art works in which I search and develop altered realities.
 
 
 #### Competences
