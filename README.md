@@ -5,7 +5,7 @@ Junior Web Developer
 
 Actually working @Becode, ...
 
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
