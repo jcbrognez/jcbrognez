@@ -1,9 +1,31 @@
-### Hi there 👋
+### Welcome on my github profile !
+
+I am a Junior Web Developer actually working and learning @ Becode in Charleroi, Belgium.
+
+As a photographer I am naturally turned towards web design and front-end development.
+Also I keep working on personal art works in which I search and develop altered realities.
 
 
-Junior Web Developer
+#### Competences
 
-Actually working @Becode, ...
+:css:
+:html:
+
+<!--
+#### Works
+
+Personal Web site
+Made in
+Portfolio
+Work on Github
+-->
+
+#### How to reach me
+
+* Email [jcbrognez@gmail.com]()
+* Linkedin [Profile](https://www.linkedin.com/in/jean-charles-brognez/)
+* :Twitter:
+
 
 <!--
 Here are some ideas to get you started:
