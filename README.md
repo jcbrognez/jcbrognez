@@ -21,12 +21,12 @@ As a photographer I also work on personal art works in which I search and develo
 
 
 <!--
-#### Works
-
-Personal Web site
-Made in
-Portfolio
+#### Learning in Becode
 Work on Github
+#### Personal Projects
+Portfolio
+Photographer
+Made in
 -->
 
 #### How to reach me
