@@ -1,6 +1,6 @@
 ### Welcome on my github profile !
 
-I am a Junior Web Developer actually working and learning @ Becode in Charleroi, Belgium.
+I am a Junior Web Developer actually working and learning [@Becode](https://becode.org/) in Charleroi, Belgium.
 
 I am mainly confortable in web design and front-end development.
 As a photographer I also work on personal art works in which I search and develop altered realities.
