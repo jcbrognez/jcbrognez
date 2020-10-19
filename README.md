@@ -4,6 +4,7 @@ I am a Junior Web Developer actually working and learning [@Becode](https://beco
 
 I am mainly confortable in web design and front-end development. As a photographer I seek to link photography to its main contemporary media ; the internet.
 I also work on personal art works in which I search and develop altered realities.
+
 I mostly like to develop projects and make them a reality. 
 
 
