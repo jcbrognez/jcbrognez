@@ -14,10 +14,10 @@ As a photographer I also work on personal art works in which I search and develo
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="PHP" width="32px" src="https://multarte.com.br/wp-content/uploads/2015/07/php1.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
+<br/>
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.1min30.com/wp-content/uploads/2017/03/logo-WordPress.jpg" />
-
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br/>
 
 
 <!--
