@@ -33,7 +33,7 @@ Made in
 
 #### How to reach me
 
-* Email [jcbrognez@gmail.com]
+* Email jcbrognez@gmail.com
 * Linkedin [Profile](https://www.linkedin.com/in/jean-charles-brognez/)
 
 
